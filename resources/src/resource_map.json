@@ -1,0 +1,23 @@
+{
+    "media": [
+        {
+            "characterRegex": "[HOURMINS]",
+            "defName": "FONT_TYPEONE_24",
+            "type": "font",
+            "file": "fonts/typeone.ttf"
+        },
+        {
+            "characterRegex": "[0-9 ]",
+            "defName": "FONT_TYPEONE_34",
+            "type": "font",
+            "file": "fonts/typeone.ttf"
+        },
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/TimeBarsIcon.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
